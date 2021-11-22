@@ -1,0 +1,1 @@
+Using our code, you can preset two-dimensional Digital Reconstruction Radiograph (DRR) from different angles according to your needs. The DRR images under different angles can be obtained on demand, such as these DRR examples.
