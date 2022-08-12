@@ -17,8 +17,12 @@ Link：https://drive.google.com/file/d/1c1X9REdCmSl59J-jMMdN1Wbi1JQcoRDw/view?us
 If you have found this repository useful in your work, we kindly ask that you cite our paper.
 
 {
+
 Title = {Integrating model explanations and hybrid priors into deep stacked networks for the “safe zone” prediction of acetabular cup},
+
 Author = {Fuchang Han, Shenghui Liao*, Sifan Bai, Renzhong Wu, Yingqi Zhang and Yongqiang Hao},
+
 Journal = {Acta Radiologica}
+
 }
 
