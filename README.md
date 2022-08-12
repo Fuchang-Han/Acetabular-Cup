@@ -10,12 +10,12 @@ You can download, install, and use the software in any of the following ways (i.
 2.	Baidu Netdisk
 link：https://pan.baidu.com/s/1wRDTUnPGD-rG9pwGNAzTZw
 password：j02e
-or
 3.	Google Drive
 Link：https://drive.google.com/file/d/1c1X9REdCmSl59J-jMMdN1Wbi1JQcoRDw/view?usp=sharing
 
 ---------------------------------------------------------------------------------------------
 If you have found this repository useful in your work, we kindly ask that you cite our paper.
+
 {
 Title = {Integrating model explanations and hybrid priors into deep stacked networks for the “safe zone” prediction of acetabular cup},
 Author = {Fuchang Han, Shenghui Liao*, Sifan Bai, Renzhong Wu, Yingqi Zhang and Yongqiang Hao},
